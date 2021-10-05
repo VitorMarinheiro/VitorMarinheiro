@@ -5,7 +5,7 @@ NOW
 ✨ Writing posts on Medium;
 ⚡️  Learning AWS";
 
-=BIO
+BIO
 🏢 I'm currently working at Banco Inter - Brasil
 ⚙️ I use daily: java, node, js, appium, aws, api's.
 🌍 I'm very active in the Quality Assurance community
