@@ -4,7 +4,7 @@
 
 ##### NOW
 
-- ✨ Writing posts on Medium;
+- ✨ Writing posts on [Medium](https://medium.com/@vitormarinheiroautomation);
 - ⚡️  Learning AWS;
 
 ##### BIO
