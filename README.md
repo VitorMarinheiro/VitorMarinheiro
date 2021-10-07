@@ -2,11 +2,6 @@
 
 #### I'm a Test Automation QA working in Recife, Brasil.
 
-##### NOW
-
-- ✨ Writing posts on [Medium](https://medium.com/@vitormarinheiroautomation);
-- ⚡️  Learning AWS;
-
 ##### BIO
 
 - 🏢 I'm currently working at **Banco Inter**
@@ -15,3 +10,8 @@
 - 🌱 Learning all about **Test Automation**
 - 💬 Ping me about **Quality Assurance**, **Test Automation**, **DevOps**, **Agile**, **AWS**
 - 📫 Reach me: [linkedin/vitormarinheiro](www.linkedin.com/in/vitor-marinheiro-automationqa)
+
+##### NOW
+
+- ✨ Writing posts on [Medium](https://medium.com/@vitormarinheiroautomation);
+- ⚡️  Learning AWS;
