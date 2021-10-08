@@ -47,15 +47,15 @@
 <!-- inicio_do_cabecalho_do_jogo -->
 <h2 align="center">Let's find all the bugs!</h3>
 
-#### :space_invader: Bugs found so far: 1 :star:
+#### :space_invader: Bugs found so far: 2 :star:
 <!-- fim_do_cabecalho_do_jogo -->
 <!-- inicio_do_tabuleiro -->
 | :construction: | :construction: | :construction: | :construction: | :construction: | :construction: |
 | - | - | - | - | - | - |
 | :construction: | :space_invader: | :space_invader: |  |  | :construction: |
-| :construction: | :space_invader: |  |  |  | :construction: |
 | :construction: | :mag_right: |  |  |  | :construction: |
 | :construction: |  |  |  |  | :construction: |
+| :construction: |  |  | :space_invader: |  | :construction: |
 | :construction: | :construction: | :construction: | :construction: | :construction: | :construction: |
 
 <!-- final_do_tabuleiro -->
@@ -76,15 +76,15 @@ Let's find all Bugs to ensure the quality of our project!! For that we need to u
 Score | Player
 ------------ | ----------------------- |
 1 | marciajosy |
+1 | piettromelo |
 0 |   |
-0 |  |
 
 #### :muscle: Top 3: Most frequent players
 <!-- final_das_pontuacoes -->
 <!-- inicio_da_frequencia -->
 Moves | Player
 ------------ | ----------------------- |
-4 | piettromelo |
+5 | piettromelo |
 2 | marciajosy |
 0 |   |
 
