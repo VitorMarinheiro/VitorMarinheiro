@@ -9,7 +9,7 @@
 - 🌍 I'm very active in the **Quality Assurance** community
 - 🌱 Learning all about **Test Automation**
 - 💬 Ping me about **Quality Assurance**, **Test Automation**, **DevOps**, **Agile**, **AWS**
-- 📫 Reach me: [linkedin/vitormarinheiro](www.linkedin.com/in/vitor-marinheiro-automationqa)
+- 📫 Reach me: [linkedin/vitormarinheiro](https://www.linkedin.com/in/vitor-marinheiro-automationqa)
 
 ##### NOW
 
