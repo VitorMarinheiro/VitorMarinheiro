@@ -1,0 +1,19 @@
+{
+  "jogadores": [
+    {
+      "jogadas": 0,
+      "name": " ",
+      "pontuacao": 0
+    },
+    {
+      "jogadas": 0,
+      "name": "",
+      "pontuacao": 0
+    },
+    {
+      "jogadas": 0,
+      "name": "   ",
+      "pontuacao": 0
+    }
+  ]
+}
