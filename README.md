@@ -1,6 +1,5 @@
-## Hi there 👋
-
-#### I'm a Test Automation QA working in Recife, Brasil.
+<h1 align="center">Vitor Marinheiro</h1>
+<h4 align="center">A Test Automation QA working in Recife, Brasil</h3>
 
 ##### BIO
 
@@ -15,30 +14,44 @@
 
 - ✨ Writing posts on [Medium](https://medium.com/@vitormarinheiroautomation);
 - ⚡️  Learning AWS;
+
+##### TAKE A LOOK
+<details close>
+ <summary> 📰 <b>Latest articles published on Medium</b>: </summary>
+<br>
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vitormarinheiroautomation/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vitormarinheiroautomation/0" alt="Recent Article 0"></a>
+  <br>
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vitormarinheiroautomation/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vitormarinheiroautomation/1" alt="Recent Article 1"></a>
+  <br>
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vitormarinheiroautomation/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vitormarinheiroautomation/2" alt="Recent Article 2"></a>
+  <br>
+</details open>
+
 <!-- fim_do_cabecalho -->
 <!-- inicio_do_cabecalho_do_jogo -->
-## Let's find all the bugs!
+<h2 align="center">Let's find all the bugs!</h3>
+
 #### :space_invader: Bugs found so far: 1 :star:
 <!-- fim_do_cabecalho_do_jogo -->
 <!-- inicio_do_tabuleiro -->
 | :construction: | :construction: | :construction: | :construction: | :construction: | :construction: |
 | - | - | - | - | - | - |
-| :construction: |  |  |  |  | :construction: |
-| :construction: | :space_invader: |  | :mag_right: |  | :construction: |
 | :construction: | :space_invader: | :space_invader: |  |  | :construction: |
+| :construction: | :space_invader: |  |  |  | :construction: |
 | :construction: |  |  |  |  | :construction: |
+| :construction: |  |  | :mag_right: |  | :construction: |
 | :construction: | :construction: | :construction: | :construction: | :construction: | :construction: |
 
 <!-- final_do_tabuleiro -->
 <!-- inicio_dos_botoes -->
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[:arrow_up:](https://github.com/VitorMarinheiro/VitorMarinheiro/issues/new?title=snakeup&body=Just+push+%27Submit+new+issue%27+green+button.+The+README+will+be+updated+after+approximately+25+seconds)<br />
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [:arrow_left:](https://github.com/VitorMarinheiro/VitorMarinheiro/issues/new?title=snakeleft&body=Just+push+%27Submit+new+issue%27+green+button.+The+README+will+be+updated+after+approximately+25+seconds)
-[:arrow_down:](https://github.com/VitorMarinheiro/VitorMarinheiro/issues/new?title=snakedown&body=Just+push+%27Submit+new+issue%27+green+button.+The+README+will+be+updated+after+approximately+25+seconds)
+:x:
 [:arrow_right:](https://github.com/VitorMarinheiro/VitorMarinheiro/issues/new?title=snakeright&body=Just+push+%27Submit+new+issue%27+green+button.+The+README+will+be+updated+after+approximately+25+seconds)
 
 <!-- final_dos_botoes -->
 <!-- inicio_como_isso_funciona -->
-## How does it work
+<h2 align="center">How does it work</h3>
 Let's find all Bugs to ensure the quality of our project!! For that we need to use the arrows that are right below the board to make the :mag_right: move and find the bugs!
 
 #### :trophy: Top 3: Highest scores
@@ -57,9 +70,13 @@ Moves | Player
 ------------ | ----------------------- |
 2 | marciajosy |
 0 |   |
-0 |  |
+0 |   |
 
 <!-- final_da_frequencia -->
 <!-- inicio_do_rodape -->
-## Did you like it?
-How about following me on [GitHub](https://github.com/VitorMarinheiro) and [LinkedIn](https://www.linkedin.com/in/vitor-marinheiro-automationqa)? :star:
+<h2 align="center">Let's keep in touch</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/vitor-marinheiro-automationqa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linkedin" height="30" width="30" /></a>&emsp;
+  <a href="https://github.com/VitorMarinheiro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Github" height="30" width="30" /></a>&emsp;
+ <a href="https://vitormarinheiroautomation.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Medium" height="30" width="30" /></a>
+</p>
