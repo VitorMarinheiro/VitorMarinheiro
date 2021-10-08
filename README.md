@@ -24,8 +24,8 @@
 | :construction: | :construction: | :construction: | :construction: | :construction: | :construction: |
 | - | - | - | - | - | - |
 | :construction: |  |  |  |  | :construction: |
-| :construction: | :space_invader: |  |  |  | :construction: |
-| :construction: | :space_invader: | :space_invader: | :mag_right: |  | :construction: |
+| :construction: | :space_invader: |  | :mag_right: |  | :construction: |
+| :construction: | :space_invader: | :space_invader: |  |  | :construction: |
 | :construction: |  |  |  |  | :construction: |
 | :construction: | :construction: | :construction: | :construction: | :construction: | :construction: |
 
@@ -55,7 +55,7 @@ Score | Player
 <!-- inicio_da_frequencia -->
 Moves | Player
 ------------ | ----------------------- |
-1 | marciajosy |
+2 | marciajosy |
 0 |   |
 0 |  |
 
