@@ -54,14 +54,14 @@
 | - | - | - | - | - | - |
 | :construction: | :space_invader: | :space_invader: |  |  | :construction: |
 | :construction: | :space_invader: |  |  |  | :construction: |
-| :construction: |  | :mag_right: |  |  | :construction: |
+| :construction: | :mag_right: |  |  |  | :construction: |
 | :construction: |  |  |  |  | :construction: |
 | :construction: | :construction: | :construction: | :construction: | :construction: | :construction: |
 
 <!-- final_do_tabuleiro -->
 <!-- inicio_dos_botoes -->
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[:arrow_up:](https://github.com/VitorMarinheiro/VitorMarinheiro/issues/new?title=snakeup&body=Just+push+%27Submit+new+issue%27+green+button.+The+README+will+be+updated+after+approximately+25+seconds)<br /> 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [:arrow_left:](https://github.com/VitorMarinheiro/VitorMarinheiro/issues/new?title=snakeleft&body=Just+push+%27Submit+new+issue%27+green+button.+The+README+will+be+updated+after+approximately+25+seconds)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :x:
 [:arrow_down:](https://github.com/VitorMarinheiro/VitorMarinheiro/issues/new?title=snakedown&body=Just+push+%27Submit+new+issue%27+green+button.+The+README+will+be+updated+after+approximately+25+seconds)
 [:arrow_right:](https://github.com/VitorMarinheiro/VitorMarinheiro/issues/new?title=snakeright&body=Just+push+%27Submit+new+issue%27+green+button.+The+README+will+be+updated+after+approximately+25+seconds)
 
@@ -84,7 +84,7 @@ Score | Player
 <!-- inicio_da_frequencia -->
 Moves | Player
 ------------ | ----------------------- |
-3 | piettromelo |
+4 | piettromelo |
 2 | marciajosy |
 0 |   |
 
