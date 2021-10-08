@@ -316,7 +316,7 @@ def incrementar_pontuacao():
 def setar_opcoes_de_caminho_no_read_me(tabuleiro, snake_pos):
 
     tabulation = '&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; '
-    pre_url_open_issue = '(https://github.com/VitorMarinheiro/TestSnake/issues/new?title='
+    pre_url_open_issue = '(https://github.com/VitorMarinheiro/VitorMarinheiro/issues/new?title='
     post_url_open_issue = '&body=Just+push+%27Submit+new+issue%27+green+button.+The+README+will+be+updated+after+approximately+25+seconds)'
 
     # Valida UP
