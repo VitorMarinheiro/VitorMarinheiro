@@ -11,19 +11,19 @@
 - 📫 Reach me: [linkedin/vitormarinheiro](https://www.linkedin.com/in/vitor-marinheiro-automationqa)
 - 🚀 Technologies:
 <p align="center">
-      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
-      <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/cypress.svg" alt="cypress" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="55" height="55"/>
-      <img src="https://github.com/gilbarbara/logos/blob/master/logos/selenium.svg" alt="selenium" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/>
-      <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/sonarqube.svg" alt="sonar" width="55" height="55"/>
-      <img src="https://github.com/detain/svg-logos/blob/master/svg/appium.svg" alt="appium" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JS" width="60" height="50"/>
-      <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
-      <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="55" height="55"/>
+      <a href="https://www.java.com/"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/></a>
+      <a href="https://www.python.org/"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/></a>
+      <a href="https://www.cypress.io/"><img src="https://github.com/simple-icons/simple-icons/blob/master/icons/cypress.svg" alt="cypress" width="55" height="55"/></a>
+      <a href="https://aws.amazon.com/"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="55" height="55"/></a>
+      <a href="https://www.selenium.dev/"><img src="https://github.com/gilbarbara/logos/blob/master/logos/selenium.svg" alt="selenium" width="55" height="55"/></a>
+      <a href="https://nodejs.org/en/"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/></a>
+      <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/></a>
+      <a href="https://www.sonarqube.org/"><img src="https://github.com/simple-icons/simple-icons/blob/master/icons/sonarqube.svg" alt="sonar" width="55" height="55"/></a>
+      <a href="https://appium.io/"><img src="https://github.com/detain/svg-logos/blob/master/svg/appium.svg" alt="appium" width="55" height="55"/></a>
+      <a href="https://www.javascript.com/"><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JS" width="60" height="50"/></a>
+      <a href="https://www.docker.com/"><img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/></a>
+      <a href="https://www.jenkins.io/"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="55" height="55"/></a>
+      <a href="https://www.postman.com/"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="55" height="55"/></a>
 </p>
 
 ##### NOW
@@ -55,7 +55,7 @@
 | :construction: | :space_invader: | :space_invader: |  |  | :construction: |
 | :construction: | :space_invader: |  |  |  | :construction: |
 | :construction: |  |  |  |  | :construction: |
-| :construction: |  |  | :mag_right: |  | :construction: |
+| :construction: |  |  |  | :mag_right: | :construction: |
 | :construction: | :construction: | :construction: | :construction: | :construction: | :construction: |
 
 <!-- final_do_tabuleiro -->
@@ -63,7 +63,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[:arrow_up:](https://github.com/VitorMarinheiro/VitorMarinheiro/issues/new?title=snakeup&body=Just+push+%27Submit+new+issue%27+green+button.+The+README+will+be+updated+after+approximately+25+seconds)<br />
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [:arrow_left:](https://github.com/VitorMarinheiro/VitorMarinheiro/issues/new?title=snakeleft&body=Just+push+%27Submit+new+issue%27+green+button.+The+README+will+be+updated+after+approximately+25+seconds)
 :x:
-[:arrow_right:](https://github.com/VitorMarinheiro/VitorMarinheiro/issues/new?title=snakeright&body=Just+push+%27Submit+new+issue%27+green+button.+The+README+will+be+updated+after+approximately+25+seconds)
+:x:
 
 <!-- final_dos_botoes -->
 <!-- inicio_como_isso_funciona -->
@@ -85,7 +85,7 @@ Score | Player
 Moves | Player
 ------------ | ----------------------- |
 2 | marciajosy |
-1 | vitor |
+0 |  |
 0 |   |
 
 <!-- final_da_frequencia -->
