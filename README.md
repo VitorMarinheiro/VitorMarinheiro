@@ -9,6 +9,22 @@
 - 🌱 Learning all about **Test Automation**
 - 💬 Ping me about **Quality Assurance**, **Test Automation**, **DevOps**, **Agile**, **AWS**
 - 📫 Reach me: [linkedin/vitormarinheiro](https://www.linkedin.com/in/vitor-marinheiro-automationqa)
+- 🚀 Technologies:
+<p align="center">
+      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/>
+      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
+      <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/cypress.svg" alt="cypress" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="55" height="55"/>
+      <img src="https://github.com/gilbarbara/logos/blob/master/logos/selenium.svg" alt="selenium" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/>
+      <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/sonarqube.svg" alt="sonar" width="55" height="55"/>
+      <img src="https://github.com/detain/svg-logos/blob/master/svg/appium.svg" alt="appium" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JS" width="60" height="50"/>
+      <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
+      <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="55" height="55"/>
+</p>
 
 ##### NOW
 
@@ -17,7 +33,7 @@
 
 ##### TAKE A LOOK
 <details close>
- <summary> 📰 <b>Latest articles published on Medium</b>: </summary>
+<summary> 📰 Latest articles published on Medium: </summary>
 <br>
     <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vitormarinheiroautomation/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vitormarinheiroautomation/0" alt="Recent Article 0"></a>
   <br>
@@ -69,7 +85,7 @@ Score | Player
 Moves | Player
 ------------ | ----------------------- |
 2 | marciajosy |
-0 |   |
+1 | vitor |
 0 |   |
 
 <!-- final_da_frequencia -->
