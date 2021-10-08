@@ -23,9 +23,9 @@
 <!-- inicio_do_tabuleiro -->
 | :construction: | :construction: | :construction: | :construction: | :construction: | :construction: |
 | - | - | - | - | - | - |
-| :construction: | :space_invader: | :space_invader: |  |  | :construction: |
-| :construction: | :space_invader: |  |  |  | :construction: |
 | :construction: |  |  |  |  | :construction: |
+| :construction: | :space_invader: |  |  |  | :construction: |
+| :construction: |  | :space_invader: | :space_invader: |  | :construction: |
 | :construction: |  |  | :mag_right: |  | :construction: |
 | :construction: | :construction: | :construction: | :construction: | :construction: | :construction: |
 
