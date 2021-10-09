@@ -53,7 +53,7 @@
 | :construction: | :construction: | :construction: | :construction: | :construction: | :construction: |
 | - | - | - | - | - | - |
 | :construction: | :space_invader: |  |  |  | :construction: |
-| :construction: |  | :mag_right: |  |  | :construction: |
+| :construction: |  |  | :mag_right: |  | :construction: |
 | :construction: |  |  | :space_invader: |  | :construction: |
 | :construction: |  |  | :space_invader: |  | :construction: |
 | :construction: | :construction: | :construction: | :construction: | :construction: | :construction: |
@@ -84,7 +84,7 @@ Score | Player
 <!-- inicio_da_frequencia -->
 Moves | Player
 ------------ | ----------------------- |
-10 | piettromelo |
+11 | piettromelo |
 2 | marciajosy |
 0 |   |
 
