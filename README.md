@@ -1,5 +1,5 @@
 <h1 align="center">Vitor Marinheiro</h1>
-<h4 align="center">A Test Automation QA working in Recife, Brasil</h3>
+<h4 align="center">Test Automation QA working in Recife, Brasil</h3>
 
 ##### BIO
 
