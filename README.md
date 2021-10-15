@@ -47,14 +47,14 @@
 <!-- inicio_do_cabecalho_do_jogo -->
 <h2 align="center">Let's find all the bugs!</h3>
 
-#### :space_invader: Bugs found so far: 4 :star:
+#### :space_invader: Bugs found so far: 5 :star:
 <!-- fim_do_cabecalho_do_jogo -->
 <!-- inicio_do_tabuleiro -->
 | :construction: | :construction: | :construction: | :construction: | :construction: | :construction: |
 | - | - | - | - | - | - |
 | :construction: | :space_invader: |  |  |  | :construction: |
-| :construction: |  |  | :mag_right: |  | :construction: |
-| :construction: |  |  | :space_invader: |  | :construction: |
+| :construction: |  |  |  |  | :construction: |
+| :construction: | :space_invader: |  | :mag_right: |  | :construction: |
 | :construction: |  |  | :space_invader: |  | :construction: |
 | :construction: | :construction: | :construction: | :construction: | :construction: | :construction: |
 
@@ -77,7 +77,7 @@ Score | Player
 ------------ | ----------------------- |
 3 | piettromelo |
 1 | marciajosy |
-0 |   |
+1 | RamonDB |
 
 #### :muscle: Top 3: Most frequent players
 <!-- final_das_pontuacoes -->
@@ -86,7 +86,7 @@ Moves | Player
 ------------ | ----------------------- |
 11 | piettromelo |
 2 | marciajosy |
-0 |   |
+1 | RamonDB |
 
 <!-- final_da_frequencia -->
 <!-- inicio_do_rodape -->
