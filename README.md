@@ -47,22 +47,22 @@
 <!-- inicio_do_cabecalho_do_jogo -->
 <h2 align="center">Let's find all the bugs!</h3>
 
-#### :space_invader: Bugs found so far: 5 :star:
+#### :space_invader: Bugs found so far: 6 :star:
 <!-- fim_do_cabecalho_do_jogo -->
 <!-- inicio_do_tabuleiro -->
 | :construction: | :construction: | :construction: | :construction: | :construction: | :construction: |
 | - | - | - | - | - | - |
 | :construction: | :space_invader: |  |  |  | :construction: |
 | :construction: |  |  |  |  | :construction: |
+| :construction: | :space_invader: |  |  |  | :construction: |
 | :construction: | :space_invader: |  | :mag_right: |  | :construction: |
-| :construction: |  |  | :space_invader: |  | :construction: |
 | :construction: | :construction: | :construction: | :construction: | :construction: | :construction: |
 
 <!-- final_do_tabuleiro -->
 <!-- inicio_dos_botoes -->
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[:arrow_up:](https://github.com/VitorMarinheiro/VitorMarinheiro/issues/new?title=snakeup&body=Just+push+%27Submit+new+issue%27+green+button.+The+README+will+be+updated+after+approximately+25+seconds)<br /> 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [:arrow_left:](https://github.com/VitorMarinheiro/VitorMarinheiro/issues/new?title=snakeleft&body=Just+push+%27Submit+new+issue%27+green+button.+The+README+will+be+updated+after+approximately+25+seconds)
-[:arrow_down:](https://github.com/VitorMarinheiro/VitorMarinheiro/issues/new?title=snakedown&body=Just+push+%27Submit+new+issue%27+green+button.+The+README+will+be+updated+after+approximately+25+seconds)
+:x:
 [:arrow_right:](https://github.com/VitorMarinheiro/VitorMarinheiro/issues/new?title=snakeright&body=Just+push+%27Submit+new+issue%27+green+button.+The+README+will+be+updated+after+approximately+25+seconds)
 
 <!-- final_dos_botoes -->
@@ -76,8 +76,8 @@ Let's find all Bugs to ensure the quality of our project!! For that we need to u
 Score | Player
 ------------ | ----------------------- |
 3 | piettromelo |
+2 | RamonDB |
 1 | marciajosy |
-1 | RamonDB |
 
 #### :muscle: Top 3: Most frequent players
 <!-- final_das_pontuacoes -->
@@ -86,7 +86,7 @@ Moves | Player
 ------------ | ----------------------- |
 11 | piettromelo |
 2 | marciajosy |
-1 | RamonDB |
+2 | RamonDB |
 
 <!-- final_da_frequencia -->
 <!-- inicio_do_rodape -->
