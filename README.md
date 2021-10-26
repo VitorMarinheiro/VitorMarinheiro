@@ -55,7 +55,7 @@
 | :construction: | :space_invader: |  |  |  | :construction: |
 | :construction: |  |  |  |  | :construction: |
 | :construction: | :space_invader: |  |  |  | :construction: |
-| :construction: | :space_invader: |  | :mag_right: |  | :construction: |
+| :construction: | :space_invader: | :mag_right: |  |  | :construction: |
 | :construction: | :construction: | :construction: | :construction: | :construction: | :construction: |
 
 <!-- final_do_tabuleiro -->
@@ -85,7 +85,7 @@ Score | Player
 Moves | Player
 ------------ | ----------------------- |
 11 | piettromelo |
-2 | marciajosy |
+3 | marciajosy |
 2 | RamonDB |
 
 <!-- final_da_frequencia -->
