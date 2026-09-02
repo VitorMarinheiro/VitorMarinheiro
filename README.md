@@ -47,21 +47,21 @@
 <!-- inicio_do_cabecalho_do_jogo -->
 <h2 align="center">Let's find all the bugs!</h3>
 
-#### :space_invader: Bugs found so far: 6 :star:
+#### :space_invader: Bugs found so far: 7 :star:
 <!-- fim_do_cabecalho_do_jogo -->
 <!-- inicio_do_tabuleiro -->
 | :construction: | :construction: | :construction: | :construction: | :construction: | :construction: |
 | - | - | - | - | - | - |
 | :construction: | :space_invader: |  |  |  | :construction: |
 | :construction: |  |  |  |  | :construction: |
-| :construction: | :space_invader: | :mag_right: |  |  | :construction: |
-| :construction: | :space_invader: |  |  |  | :construction: |
+| :construction: | :mag_right: |  |  |  | :construction: |
+| :construction: | :space_invader: |  | :space_invader: |  | :construction: |
 | :construction: | :construction: | :construction: | :construction: | :construction: | :construction: |
 
 <!-- final_do_tabuleiro -->
 <!-- inicio_dos_botoes -->
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[:arrow_up:](https://github.com/VitorMarinheiro/VitorMarinheiro/issues/new?title=snakeup&body=Just+push+%27Submit+new+issue%27+green+button.+The+README+will+be+updated+after+approximately+25+seconds)<br /> 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [:arrow_left:](https://github.com/VitorMarinheiro/VitorMarinheiro/issues/new?title=snakeleft&body=Just+push+%27Submit+new+issue%27+green+button.+The+README+will+be+updated+after+approximately+25+seconds)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :x:
 [:arrow_down:](https://github.com/VitorMarinheiro/VitorMarinheiro/issues/new?title=snakedown&body=Just+push+%27Submit+new+issue%27+green+button.+The+README+will+be+updated+after+approximately+25+seconds)
 [:arrow_right:](https://github.com/VitorMarinheiro/VitorMarinheiro/issues/new?title=snakeright&body=Just+push+%27Submit+new+issue%27+green+button.+The+README+will+be+updated+after+approximately+25+seconds)
 
